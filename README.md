@@ -20,7 +20,9 @@ $ rails s
 
 
    :point_right: - Un lien GitHub pour l'app rails du blog;
+   
    :point_right: - Un lien GitHub pour l'app rails de MOOCademy ballot_box_with_check;
+   
    :point_right: -Un lien GitHub pour l'app rails de The Hacking Class.
 
 
