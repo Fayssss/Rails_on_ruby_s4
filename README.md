@@ -23,7 +23,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
-                                    :fire::fire::fire::fire::fire::fire::fire:
+   
 
 #Rendus attendus : :smirk:
 
@@ -36,6 +36,12 @@ ruby '2.5.1'
    
    
                                          
-
+   :fire:
+   :fire:
+   :fire:
+   :fire:
+   :fire:
+   :fire:
+   :fire:
 
                                
