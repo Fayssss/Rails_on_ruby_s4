@@ -17,7 +17,9 @@ $ rails db:setup
 $ rails s
 
 
-source 'https://rubygems.org' git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+source 'https://rubygems.org' 
+
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.1'
 
@@ -31,3 +33,4 @@ ruby '2.5.1'
    :point_right: -Un lien GitHub pour l'app rails de The Hacking Class.
 
 
+                                 :fire: :fire: :fire: :fire: :fire: :fire: :fire:
