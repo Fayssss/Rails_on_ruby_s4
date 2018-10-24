@@ -17,7 +17,7 @@ source 'https://rubygems.org' git_source(:github) { |repo| "https://github.com/#
 
 ruby '2.5.1'
 
-#Rendus attendus :
+#Rendus attendus : :smirk:
 
 
    :point_right: - Un lien GitHub pour l'app rails du blog;
