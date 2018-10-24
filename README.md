@@ -7,9 +7,13 @@
 #Setup :blush:
 
 $ git clone https://github.com/Fayssss/Rails_on_ruby_s4   
+
 $ rvm use ruby-2.3.1@pivorak --create
+
 $ bundle install
+
 $ rails db:setup
+
 $ rails s
 
 
